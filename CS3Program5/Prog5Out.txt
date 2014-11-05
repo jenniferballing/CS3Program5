@@ -1,0 +1,699 @@
+ ** DELETED abruptly:4781
+ ** DELETED abruptly:4781
+ ** DELETED activist:12737
+ ** DELETED activist:12737
+Before merge 
+SkewHeap PQ1 current size = 20
+
+
+
+
+
+
+
+
+
+
+                 abracadabra
+              absentmindedly
+
+                 abstractly
+
+           abort
+
+
+
+                 absorbing
+
+                    aborigine
+
+                       abash
+
+                          ablate
+
+
+
+              abate
+
+
+
+                    abrogation
+                 abolition
+
+
+
+                       abstention
+                    abscess
+
+                       absolutist
+
+                          abed
+
+
+
+
+
+        accelerated
+
+           acclimate
+
+              accordance
+
+
+     academy
+
+
+
+
+
+
+
+                 abracadabra
+              absentmindedly
+
+                 abstractly
+
+           abort
+
+
+
+                 absorbing
+
+                    aborigine
+
+                       abash
+
+                          ablate
+
+
+
+              abate
+
+
+
+                    abrogation
+                 abolition
+
+
+
+                       abstention
+                    abscess
+
+                       absolutist
+
+                          abed
+
+
+
+
+
+        accelerated
+
+           acclimate
+
+              accordance
+
+
+
+  abruptly
+
+
+
+
+
+
+
+              abracadabra
+           absentmindedly
+
+              abstractly
+
+        abort
+
+
+
+              absorbing
+
+                 aborigine
+
+                    abash
+
+                       ablate
+
+
+
+           abate
+
+
+
+                 abrogation
+              abolition
+
+
+
+                    abstention
+                 abscess
+
+                    absolutist
+
+                       abed
+
+
+
+
+
+     accelerated
+
+        acclimate
+
+           accordance
+
+
+
+
+Before merge 
+SkewHeap PQ2 current size = 20
+
+
+
+
+
+
+           acquit
+
+              achy
+
+                 acerbically
+
+
+        accustomed
+
+
+
+              accretion
+
+                 acidify
+
+           accreditation
+
+
+
+                 Achaemenid
+              actualized
+
+                 achievement-oriented
+
+
+
+     accounting
+
+
+
+           acrimony
+
+
+
+                 acetylene
+              accusing
+
+                 acid-fast
+
+
+        accoutrement
+
+
+
+              accrediting
+
+                 acquaintanceship
+
+           acerbic
+
+
+
+                 Achaemenid
+              actualized
+
+                 achievement-oriented
+
+
+
+
+  activist
+
+
+
+        Achaemenid
+     actualized
+
+        achievement-oriented
+
+
+
+After merge 
+SkewHeap PQ1 current size = 20
+
+
+
+
+
+
+
+
+              abracadabra
+           absentmindedly
+
+              abstractly
+
+        abort
+
+
+
+              absorbing
+
+                 aborigine
+
+                    abash
+
+                       ablate
+
+
+
+           abate
+
+
+
+                 abrogation
+              abolition
+
+
+
+                    abstention
+                 abscess
+
+                    absolutist
+
+                       abed
+
+
+
+
+
+     accelerated
+
+        acclimate
+
+           accordance
+
+
+  abruptly
+
+
+
+
+
+
+
+
+
+                 abracadabra
+              absentmindedly
+
+                 abstractly
+
+           abort
+
+
+
+                 absorbing
+
+                    aborigine
+
+                       abash
+
+                          ablate
+
+
+
+              abate
+
+
+
+                    abrogation
+                 abolition
+
+
+
+                       abstention
+                    abscess
+
+                       absolutist
+
+                          abed
+
+
+
+
+
+        accelerated
+
+           acclimate
+
+              accordance
+
+
+     academy
+
+
+
+
+
+              accretion
+
+                 acidify
+
+           accreditation
+
+
+
+                 Achaemenid
+              actualized
+
+                 achievement-oriented
+
+
+        accustomed
+
+
+
+              achy
+
+                 acerbically
+
+           acquit
+
+
+
+
+
+
+
+                       abracadabra
+                    absentmindedly
+
+                       abstractly
+
+                 abort
+
+
+
+                       absorbing
+
+                          aborigine
+
+                             abash
+
+                                ablate
+
+
+
+                    abate
+
+
+
+                          abrogation
+                       abolition
+
+
+
+                             abstention
+                          abscess
+
+                             absolutist
+
+                                abed
+
+
+
+
+
+              accelerated
+
+                 acclimate
+
+                    accordance
+
+
+
+
+
+
+
+After merge 
+SkewHeap PQ2 current size = 20
+
+
+
+
+        Achaemenid
+     actualized
+
+        achievement-oriented
+
+  activist
+
+
+
+
+
+           acrimony
+
+
+
+                 acetylene
+              accusing
+
+                 acid-fast
+
+
+        accoutrement
+
+
+
+              accrediting
+
+                 acquaintanceship
+
+           acerbic
+
+
+
+                 Achaemenid
+              actualized
+
+                 achievement-oriented
+
+
+
+     accounting
+
+
+
+
+
+
+
+
+
+                    abracadabra
+                 absentmindedly
+
+                    abstractly
+
+              abort
+
+
+
+                    absorbing
+
+                       aborigine
+
+                          abash
+
+                             ablate
+
+
+
+                 abate
+
+
+
+                       abrogation
+                    abolition
+
+
+
+                          abstention
+                       abscess
+
+                          absolutist
+
+                             abed
+
+
+
+
+
+           accelerated
+
+              acclimate
+
+                 accordance
+
+
+        abruptly
+
+
+
+
+
+
+
+
+
+                       abracadabra
+                    absentmindedly
+
+                       abstractly
+
+                 abort
+
+
+
+                       absorbing
+
+                          aborigine
+
+                             abash
+
+                                ablate
+
+
+
+                    abate
+
+
+
+                          abrogation
+                       abolition
+
+
+
+                             abstention
+                          abscess
+
+                             absolutist
+
+                                abed
+
+
+
+
+
+              accelerated
+
+                 acclimate
+
+                    accordance
+
+
+           academy
+
+
+
+
+
+                    accretion
+
+                       acidify
+
+                 accreditation
+
+
+
+                       Achaemenid
+                    actualized
+
+                       achievement-oriented
+
+
+              accustomed
+
+
+
+                    achy
+
+                       acerbically
+
+                 acquit
+
+
+
+
+
+
+
+                             abracadabra
+                          absentmindedly
+
+                             abstractly
+
+                       abort
+
+
+
+                             absorbing
+
+                                aborigine
+
+                                   abash
+
+                                      ablate
+
+
+
+                          abate
+
+
+
+                                abrogation
+                             abolition
+
+
+
+                                   abstention
+                                abscess
+
+                                   absolutist
+
+                                      abed
+
+
+
+
+
+                    accelerated
+
+                       acclimate
+
+                          accordance
+
+
+
+
+
+
+
+
+
+Elapsed time = 98.275
